@@ -1,0 +1,5 @@
+string item
+---
+bool found
+string category
+string message
